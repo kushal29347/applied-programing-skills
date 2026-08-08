@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kushal29347/applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/kushal29347/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -33,8 +34,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/kushal29347/applied-programing-skills/tree/master/0071-simplify-path) |
+| [0387-first-unique-character-in-a-string](https://github.com/kushal29347/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/kushal29347/applied-programing-skills/tree/master/0071-simplify-path) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kushal29347/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kushal29347/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
