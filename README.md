@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushal29347/applied-programing-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/kushal29347/applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/kushal29347/applied-programing-skills/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/kushal29347/applied-programing-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kushal29347/applied-programing-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Hash Table
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kushal29347/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/kushal29347/applied-programing-skills/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
