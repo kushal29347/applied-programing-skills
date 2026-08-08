@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushal29347/applied-programing-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/kushal29347/applied-programing-skills/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/kushal29347/applied-programing-skills/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
