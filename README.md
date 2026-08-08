@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/kushal29347/applied-programing-skills/tree/master/0071-simplify-path) |
+| [0344-reverse-string](https://github.com/kushal29347/applied-programing-skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushal29347/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
@@ -52,4 +53,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/kushal29347/applied-programing-skills/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/kushal29347/applied-programing-skills/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
