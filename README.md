@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kushal29347/applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
+| [0837-new-21-game](https://github.com/kushal29347/applied-programing-skills/tree/master/0837-new-21-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -26,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0837-new-21-game](https://github.com/kushal29347/applied-programing-skills/tree/master/0837-new-21-game) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kushal29347/applied-programing-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushal29347/applied-programing-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0837-new-21-game](https://github.com/kushal29347/applied-programing-skills/tree/master/0837-new-21-game) |
 ## String
 |  |
 | ------- |
@@ -59,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/kushal29347/applied-programing-skills/tree/master/0876-middle-of-the-linked-list) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/kushal29347/applied-programing-skills/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
