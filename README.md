@@ -54,4 +54,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/kushal29347/applied-programing-skills/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kushal29347/applied-programing-skills/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/kushal29347/applied-programing-skills/tree/master/0876-middle-of-the-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/kushal29347/applied-programing-skills/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
